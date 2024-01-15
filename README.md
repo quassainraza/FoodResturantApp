@@ -32,16 +32,14 @@ Before you begin, ensure you have the following software installed on your machi
 ### Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/yourusername/FoodRestaurantApp.git
 2. Navigate to the project directory:
    ```bash
    cd FoodRestaurantApp
-4. Install dependencies:
+3. Install dependencies:
    ```bash
    yarn install or npm install
-4.Then run on ios/android :
-
+4. Then run on ios/android :
    ```bash
    npm run ios or npm run android
