@@ -37,7 +37,7 @@ Before you begin, ensure you have the following software installed on your machi
    git clone https://github.com/yourusername/FoodRestaurantApp.git
 2. Navigate to the project directory:
    ```bash
-   cd TourismApp
+   cd FoodRestaurantApp
 4. Install dependencies:
    ```bash
    yarn install or npm install
