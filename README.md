@@ -33,7 +33,7 @@ Before you begin, ensure you have the following software installed on your machi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FoodRestaurantApp.git
+   git clone https://github.com/quassainraza/FoodRestaurantApp.git
 2. Navigate to the project directory:
    ```bash
    cd FoodRestaurantApp
