@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911665231203",
+    "project_id": "wiremi-36f2c",
+    "storage_bucket": "wiremi-36f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911665231203:android:009b0a93355e01bbd04f56",
+        "android_client_info": {
+          "package_name": "com.wiremi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJIpuzQ6cvpeK_HA_MSduFiGimoX8FcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
